@@ -1,0 +1,22 @@
+
+body{
+    background-color:white; 
+}
+
+.wraper{
+    display: flex;
+    justify-content: space-around;
+}
+
+.pianoKey{
+    background-color: antiquewhite;
+    height: 300px;
+    width: 50px;
+    border-radius: 10px;
+}
+
+.myDiv{
+    height: 300px;
+    width: 100px;
+    background-color: brown;
+}
